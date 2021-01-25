@@ -1,2 +1,2 @@
 # hcodeJS
-Curso em Java Script HCODE UDEMY
+Curso Java Script HCODE UDEMY
